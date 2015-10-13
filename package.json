@@ -1,0 +1,28 @@
+{
+  "name": "quick-select",
+  "version": "1.0.0",
+  "description": "A jQuery plugin for quick selection of common options in select boxes. Selectual.",
+  "main": "dist/jquery.quickselect.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredy8/quick-select.git"
+  },
+  "keywords": [
+    "quick-select",
+    "select",
+    "control",
+    "jquery"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredy8/quick-select/issues"
+  },
+  "homepage": "https://github.com/fredy8/quick-select#readme"
+}
